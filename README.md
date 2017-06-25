@@ -43,4 +43,17 @@ Bonus GAN: 0
 Comments: Q2: LSTM backward dWh (-1); Q3: Class Visualization: Partially incorrect application of gradients to the image.; Q5: Initial test (+2); GAN discriminator/generator # parameters (+2);
 ~~~~
 
+~~~~
+Normalized Project Grade (out of 100): 91.5
+
+Comments from TA1: Nice writeup. You provide nice motivation for the problem. You tackle an interesting problem with a novel approach. However, in most examples when the region of interest does not encompass the majority of the image the bounding box is quite off the mark which is also revealed by your quantitative results. You are honest about the shortcoming and have a good discussion and analysis of results.
+
+Comments from TA2: Good work - interesting project with a nice write-up and discussion.
+
+Here are some stats:
+Mean: 85.0
+Median: 86.2
+Std. Dev: 10.8
+~~~~
+
 For the final project, refer to [this](http://lqkhoo.com/wiki/index.php/Main_Page#Bounding_Out-of-Sample_Objects_.282017.29)
